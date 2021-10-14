@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Empornium - Torrent Description Template Helper
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/LenAnderson/
+// @downloadURL  https://github.com/LenAnderson/Empornium-Torrent-Description-Template-Helper/raw/master/Empornium-Torrent-Description-Template-Helper.user.js
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @author       LenAnderson
 // @match        https://www.empornium.is/upload.php
 // @match        https://www.empornium.sx/upload.php
 // @grant        none
