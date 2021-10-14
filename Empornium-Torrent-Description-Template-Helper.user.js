@@ -304,6 +304,8 @@ class TemplateHelper {
 					}
 				}
 			});
+			this.placeholderList.filter(ph=>!matches.find(match=>match[1]==ph.name)).forEach(ph=>ph.remove());
+			this.placeholderList = this.placeholderList.filter(ph=>matches.find(match=>match[1]==ph.name));
 		}
 	}
 
