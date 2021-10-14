@@ -1,0 +1,17 @@
+.tdth--placeholderContainer {
+  box-sizing: border-box;
+  padding: 5px;
+}
+.tdth--placeholderContainer > .tdth--placeholder {
+  margin-top: 5px;
+}
+.tdth--placeholderContainer > .tdth--placeholder input {
+  box-sizing: border-box;
+  width: 100%;
+}
+.tdth--placeholderContainer > .tdth--placeholder textarea {
+  box-sizing: border-box;
+  height: 100px;
+  width: 100%;
+  resize: vertical;
+}
